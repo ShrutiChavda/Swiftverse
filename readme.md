@@ -1,5 +1,4 @@
 # Swiftverse – WordPress Theme
-
 Custom WordPress theme built for learning frontend development.
 
 ## Features
