@@ -11,4 +11,4 @@ Custom WordPress theme built for learning frontend development.
 Learning WordPress frontend, templates, and layout structuring.
 
 **See Live:**
-https://swiftverse.is-best.net/
+https://swiftverse.great-site.net
